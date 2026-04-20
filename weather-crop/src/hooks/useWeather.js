@@ -36,3 +36,5 @@ export function useWeather() {
 
   return { weatherData, alerts, irrigationScore, loading, error, lastUpdated, refresh: loadWeather };
 }
+
+//test change
